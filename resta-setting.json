@@ -3,7 +3,7 @@
     {
       "name": "font-size",
       "description": "change font size",
-      "icon-char": "A",
+      "iconchar": "A",
       "css": [
         {
           "font-size": "#number:<px|pt|rem|em>"
@@ -13,6 +13,7 @@
     {
       "name": "bold",
       "description": "change font weight",
+      "iconchar": "B",
       "css": [
         {
           "font-weight": "<normal|bold>"
@@ -22,6 +23,7 @@
     {
       "name": "Itaric",
       "description": "change font style",
+      "iconchar": "I",
       "css": [
         {
           "font-style": "<normal|italic>"
