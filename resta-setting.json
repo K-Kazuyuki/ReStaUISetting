@@ -6,7 +6,7 @@
       "iconchar": "A",
       "css": [
         {
-          "font-size": "#number:<px|pt|rem|em>"
+          "font-size": "フォントサイズ:#number:<px|pt|rem|em>"
         }
       ]
     },
