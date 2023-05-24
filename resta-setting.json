@@ -1,0 +1,32 @@
+{
+  "styles": [
+    {
+      "name": "font-size",
+      "description": "change font size",
+      "icon-char": "A",
+      "css": [
+        {
+          "font-size": "#number:<px|pt|rem|em>"
+        }
+      ]
+    },
+    {
+      "name": "bold",
+      "description": "change font weight",
+      "css": [
+        {
+          "font-weight": "<normal|bold>"
+        }
+      ]
+    },
+    {
+      "name": "Itaric",
+      "description": "change font style",
+      "css": [
+        {
+          "font-style": "<normal|italic>"
+        }
+      ]
+    }
+  ]
+}
