@@ -6,7 +6,7 @@
       "iconchar": "A",
       "css": [
         {
-          "font-size": "文字サイズ:#number:<px|pt|rem|em>"
+          "font-size": "#number:<px|pt|rem|em>"
         }
       ]
     },
@@ -16,7 +16,7 @@
       "iconchar": "B",
       "css": [
         {
-          "font-weight": "<normal|bold>"
+          "font-weight": "<bold>"
         }
       ]
     },
@@ -26,7 +26,7 @@
       "iconchar": "I",
       "css": [
         {
-          "font-style": "<normal|italic>"
+          "font-style": "<italic>"
         }
       ]
     }
