@@ -1,34 +1,46 @@
 {
   "styles": [
     {
-      "name": "font-size",
-      "description": "change font size",
-      "iconchar": "A",
-      "css": [
-        {
-          "font-size": "#number:<px|pt|rem|em>"
-        }
-      ]
+      "name": "name_font_family",
+      "description": "desc_font_family",
+      "category": "font",
+      "iconChar": "I",
+      "css": {
+        "font-family": "#string"
+      }
     },
     {
-      "name": "bold",
-      "description": "change font weight",
-      "iconchar": "B",
-      "css": [
-        {
-          "font-weight": "<bold>"
-        }
-      ]
+      "name": "name_font_size",
+      "description": "desc_font_size",
+      "category": "font",
+      "iconChar": "A",
+      "css": {
+        "font-size": "#number:<px|pt|rem|em>"
+      }
     },
     {
-      "name": "Itaric",
-      "description": "change font style",
-      "iconchar": "I",
-      "css": [
-        {
-          "font-style": "<italic>"
-        }
-      ]
+      "name": "name_font_style",
+      "description": "desc_font_style",
+      "category": "font",
+      "iconChar": "I",
+      "css": {
+        "font-style": "<italic>"
+      }
+    },
+    {
+      "name": "name_font_weight",
+      "description": "desc_font_weight",
+      "category": "font",
+      "iconChar": "I",
+      "css": {
+        "font-weight": "<bold>"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "font",
+      "name": "category_font"
     }
   ]
 }
