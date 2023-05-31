@@ -162,7 +162,7 @@
       }
     },
     {
-      "nanme": "name_font_color",
+      "name": "name_font_color",
       "description": "desc_font_color",
       "category": "font",
       "iconChar": "C",
