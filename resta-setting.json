@@ -1,36 +1,6 @@
 {
   "styles": [
     {
-      "id": 1,
-      "name": "test",
-      "description": "test",
-      "category": "font",
-      "iconChar": "I",
-      "filter": [
-        "p",
-        "a",
-        "h1",
-        "h2",
-        "h3",
-        "h4",
-        "h5",
-        "h6",
-        "span",
-        "div",
-        "li",
-        "td",
-        "th",
-        "label",
-        "button",
-        "input[type='button']",
-        "input[type='submit']"
-      ],
-      "css": {
-        "font-style": "<italic>",
-        "font-weight": "<bold>"
-      }
-    },
-    {
       "id": 101,
       "name": "name_font_family",
       "description": "desc_font_family",
