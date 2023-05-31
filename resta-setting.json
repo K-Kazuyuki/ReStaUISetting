@@ -5,6 +5,25 @@
       "description": "desc_font_family",
       "category": "font",
       "iconChar": "I",
+      "filter": [
+        "p",
+        "a",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "span",
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
       "css": {
         "font-family": "#string"
       }
@@ -14,6 +33,25 @@
       "description": "desc_font_size",
       "category": "font",
       "iconChar": "A",
+      "filter": [
+        "p",
+        "a",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "span",
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
       "css": {
         "font-size": "#number:<px|pt|rem|em>"
       }
@@ -23,6 +61,18 @@
       "description": "desc_font_style",
       "category": "font",
       "iconChar": "I",
+      "filter": [
+        "a",
+        "span",
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
       "css": {
         "font-style": "<italic>"
       }
@@ -32,6 +82,25 @@
       "description": "desc_font_weight",
       "category": "font",
       "iconChar": "I",
+      "filter": [
+        "p",
+        "a",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "span",
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
       "css": {
         "font-weight": "<bold>"
       }
@@ -41,6 +110,25 @@
       "description": "desc_font_position_h",
       "category": "font",
       "iconChar": "P",
+      "filter": [
+        "p",
+        "a",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "span",
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
       "css": {
         "text-align": "<left|center|right>"
       }
@@ -50,8 +138,170 @@
       "description": "desc_font_position_v",
       "category": "font",
       "iconChar": "P",
+      "filter": [
+        "p",
+        "a",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "span",
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
       "css": {
         "vertical-align": "<top|middle|bottom>"
+      }
+    },
+    {
+      "nanme": "name_font_color",
+      "description": "desc_font_color",
+      "category": "font",
+      "iconChar": "C",
+      "filter": [
+        "p",
+        "a",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "span",
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
+      "css": {
+        "color": "#color"
+      }
+    },
+    {
+      "name": "name_block_padding",
+      "description": "desc_block_padding",
+      "category": "block",
+      "iconChar": "P",
+      "filter": [
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
+      "css": {
+        "padding": "#number:<px|pt|rem|em>"
+      }
+    },
+    {
+      "name": "name_block_margin",
+      "description": "desc_block_margin",
+      "category": "block",
+      "iconChar": "M",
+      "filter": [
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
+      "css": {
+        "margin": "#number:<px|pt|rem|em>"
+      }
+    },
+    {
+      "name": "name_block_color",
+      "description": "desc_block_color",
+      "category": "block",
+      "iconChar": "C",
+      "filter": [
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
+      "css": {
+        "background-color": "#color"
+      }
+    },
+    {
+      "name": "name_block_border",
+      "description": "desc_block_border",
+      "category": "block",
+      "iconChar": "B",
+      "filter": [
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
+      "css": {
+        "border": "#number:<px|pt|rem|em> #string #color"
+      }
+    },
+    {
+      "name": "name_block_radius",
+      "description": "desc_block_radius",
+      "category": "block",
+      "iconChar": "R",
+      "filter": [
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
+      "css": {
+        "border-radius": "#number:<px|pt|rem|em>"
+      }
+    },
+    {
+      "name": "name_block_shadow",
+      "description": "desc_block_shadow",
+      "category": "block",
+      "iconChar": "S",
+      "filter": [
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']",
+        "img"
+      ],
+      "css": {
+        "box-shadow": "#number:<px|pt|rem|em> #number:<px|pt|rem|em> #number:<px|pt|rem|em> #color"
       }
     }
   ],
@@ -59,6 +309,10 @@
     {
       "id": "font",
       "name": "category_font"
+    },
+    {
+      "id": "block",
+      "name": "category_block"
     }
   ]
 }
