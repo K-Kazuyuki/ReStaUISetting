@@ -2,6 +2,8 @@
   "ja": {
     "font": "フォント",
     "name_font_family": "フォントファミリ",
+    "block": "ブロック",
+    "category_block": "ブロック変更",
     "desc_font_family": "フォントファミリを指定します。",
     "name_font_size": "フォントサイズ",
     "desc_font_size": "フォントサイズを指定します。単位にはpx, pt, rem, emが指定できます。",
