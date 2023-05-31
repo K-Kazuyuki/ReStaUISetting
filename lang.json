@@ -25,6 +25,8 @@
     "desc_block_color": "ブロックの背景色を指定します。",
     "name_block_border": "ブロックの枠線",
     "desc_block_border": "ブロックの枠線を指定します。",
+    "name_block_border_color": "ブロックの枠線色",
+    "desc_block_border_color": "ブロックの枠線色を指定します。",
     "name_block_radius": "ブロックの角丸",
     "desc_block_radius": "ブロックの角丸を指定します。",
     "name_block_shadow": "ブロックの影",

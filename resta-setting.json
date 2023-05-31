@@ -262,7 +262,26 @@
         "input[type='submit']"
       ],
       "css": {
-        "border": "#number:<px|pt|rem|em> #string #color"
+        "border-width": "#number:<px|pt|rem|em>"
+      }
+    },
+    {
+      "name": "name_block_border_color",
+      "description": "desc_block_border_color",
+      "category": "block",
+      "iconChar": "C",
+      "filter": [
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
+      "css": {
+        "border-color": "#color"
       }
     },
     {
