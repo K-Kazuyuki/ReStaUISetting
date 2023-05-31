@@ -8,6 +8,12 @@
     "name_font_style": "フォントスタイル",
     "desc_font_style": "フォントスタイルを指定します。\nnormal：通常、italic：斜体",
     "name_font_weight": "フォントの太さ",
-    "desc_font_weight": "フォントの太さを指定します。\nnormal：通常、bold：太字"
+    "desc_font_weight": "フォントの太さを指定します。\nnormal：通常、bold：太字",
+    "name_font_position_h": "文字の水平位置",
+    "desc_font_position_h": "文字の水平位置を指定します。\nleft：左寄せ、center：中央寄せ、right：右寄せ",
+    "name_font_position_v": "文字の垂直位置",
+    "desc_font_position_v": "文字の垂直位置を指定します。\ntop：上寄せ、middle：中央寄せ、bottom：下寄せ",
+    "base_change_style": "スタイルの変更",
+    "base_search": "検索"
   }
 }
