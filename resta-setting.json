@@ -1,6 +1,37 @@
 {
   "styles": [
     {
+      "id": 1,
+      "name": "test",
+      "description": "test",
+      "category": "font",
+      "iconChar": "I",
+      "filter": [
+        "p",
+        "a",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "span",
+        "div",
+        "li",
+        "td",
+        "th",
+        "label",
+        "button",
+        "input[type='button']",
+        "input[type='submit']"
+      ],
+      "css": {
+        "font-style": "<italic>",
+        "font-weight": "<bold>"
+      }
+    },
+    {
+      "id": 101,
       "name": "name_font_family",
       "description": "desc_font_family",
       "category": "font",
@@ -29,6 +60,7 @@
       }
     },
     {
+      "id": 102,
       "name": "name_font_size",
       "description": "desc_font_size",
       "category": "font",
@@ -57,6 +89,7 @@
       }
     },
     {
+      "id": 103,
       "name": "name_font_style",
       "description": "desc_font_style",
       "category": "font",
@@ -78,6 +111,7 @@
       }
     },
     {
+      "id": 104,
       "name": "name_font_weight",
       "description": "desc_font_weight",
       "category": "font",
@@ -106,6 +140,7 @@
       }
     },
     {
+      "id": 105,
       "name": "name_font_position_h",
       "description": "desc_font_position_h",
       "category": "font",
@@ -134,6 +169,7 @@
       }
     },
     {
+      "id": 106,
       "name": "name_font_position_v",
       "description": "desc_font_position_v",
       "category": "font",
@@ -162,6 +198,7 @@
       }
     },
     {
+      "id": 107,
       "name": "name_font_color",
       "description": "desc_font_color",
       "category": "font",
@@ -190,6 +227,7 @@
       }
     },
     {
+      "id": 201,
       "name": "name_block_padding",
       "description": "desc_block_padding",
       "category": "block",
@@ -209,6 +247,7 @@
       }
     },
     {
+      "id": 202,
       "name": "name_block_margin",
       "description": "desc_block_margin",
       "category": "block",
@@ -228,6 +267,7 @@
       }
     },
     {
+      "id": 203,
       "name": "name_block_color",
       "description": "desc_block_color",
       "category": "block",
@@ -247,6 +287,7 @@
       }
     },
     {
+      "id": 204,
       "name": "name_block_border",
       "description": "desc_block_border",
       "category": "block",
@@ -266,6 +307,7 @@
       }
     },
     {
+      "id": 205,
       "name": "name_block_border_color",
       "description": "desc_block_border_color",
       "category": "block",
@@ -285,6 +327,7 @@
       }
     },
     {
+      "id": 206,
       "name": "name_block_radius",
       "description": "desc_block_radius",
       "category": "block",
@@ -304,6 +347,7 @@
       }
     },
     {
+      "id": 207,
       "name": "name_block_shadow",
       "description": "desc_block_shadow",
       "category": "block",
