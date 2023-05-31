@@ -35,6 +35,24 @@
       "css": {
         "font-weight": "<bold>"
       }
+    },
+    {
+      "name": "name_font_position_h",
+      "description": "desc_font_position_h",
+      "category": "font",
+      "iconChar": "P",
+      "css": {
+        "text-align": "<left|center|right>"
+      }
+    },
+    {
+      "name": "name_font_position_v",
+      "description": "desc_font_position_v",
+      "category": "font",
+      "iconChar": "P",
+      "css": {
+        "vertical-align": "<top|middle|bottom>"
+      }
     }
   ],
   "categories": [
