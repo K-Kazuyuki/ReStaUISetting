@@ -55,7 +55,7 @@
         "input[type='submit']"
       ],
       "css": {
-        "font-size": "#number:<px|pt|rem|em>"
+        "font-size": "#number:<pt|rem|em|px>"
       }
     },
     {
