@@ -338,6 +338,21 @@
       }
     }
   ],
+  "templates": [
+    {
+      "id": 3001,
+      "name": "name_template_1",
+      "description": "desc_template_1",
+      "category": "button",
+      "iconChar": "T",
+      "filter": ["button"],
+      "css": {
+        "border-radius": "100vh",
+        "color": "#fff",
+        "background-color": "#eb6100"
+      }
+    }
+  ],
   "categories": [
     {
       "id": "font",
