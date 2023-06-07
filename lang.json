@@ -36,7 +36,7 @@
     "save_button": "保存",
 
     "page_settings": "ページ設定",
-    "init_page_format": "デザイン初期化",
+    "init_page_format": "編集中のデザイン初期化",
     "init_page_format_description": "編集中のURLに対応するデザインを初期化します。初期化すると現在のデザインは失われます。この操作は取り消せません。",
     "change_eddited_url": "編集中のURLを変更",
     "change_eddited_url_description": "編集対象のURLを変更します。末尾にのみワイルドカード(*)が利用できます。",
