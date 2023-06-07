@@ -38,6 +38,9 @@
     "page_settings": "ページ設定",
     "init_page_format": "デザイン初期化",
     "init_page_format_description": "デザインを初期化します。初期化すると現在のデザインは失われます。この操作は取り消せません。",
+    "change_eddited_url": "編集中のURLを変更",
+    "change_eddited_url_description": "編集対象のURLを変更します。正規表現を利用することができます。",
+
     "extension_settings": "ReSta設定",
     "init_all_format": "全デザイン初期化",
     "init_all_format_description": "全てのデザインを初期化します。初期化すると現在のデザインは失われます。この操作は取り消せません。",
