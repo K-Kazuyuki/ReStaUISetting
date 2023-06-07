@@ -36,6 +36,14 @@
     "save_button": "保存",
 
     "page_settings": "ページ設定",
-    "init_page_format": "デザイン初期化"
+    "init_page_format": "デザイン初期化",
+    "init_page_format_description": "デザインを初期化します。初期化すると現在のデザインは失われます。この操作は取り消せません。",
+    "confirm_init_page_format": "デザインを初期化します。よろしいですか？",
+    "init_page_format_success": "デザインを初期化しました。",
+    "execute": "実行",
+    "confirm": "確認",
+    "confirm_description": "実行します。本当によろしいのですか？",
+    "yes": "はい",
+    "no": "いいえ"
   }
 }
