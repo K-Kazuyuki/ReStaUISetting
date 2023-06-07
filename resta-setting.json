@@ -64,6 +64,7 @@
       "description": "desc_font_style",
       "category": "font",
       "iconChar": "I",
+      "iconType": "itaric-outlined",
       "filter": [
         "a",
         "span",
@@ -86,6 +87,7 @@
       "description": "desc_font_weight",
       "category": "font",
       "iconChar": "I",
+      "iconType": "bold-outlined",
       "filter": [
         "p",
         "a",
