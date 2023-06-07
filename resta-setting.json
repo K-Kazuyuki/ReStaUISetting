@@ -64,7 +64,7 @@
       "description": "desc_font_style",
       "category": "font",
       "iconChar": "I",
-      "iconType": "itaric-outlined",
+      "iconType": "ItalicOutlined",
       "filter": [
         "a",
         "span",
@@ -78,7 +78,7 @@
         "input[type='submit']"
       ],
       "css": {
-        "font-style": "<italic>"
+        "font-style": "<italic|bold>"
       }
     },
     {
@@ -87,7 +87,7 @@
       "description": "desc_font_weight",
       "category": "font",
       "iconChar": "I",
-      "iconType": "bold-outlined",
+      "iconType": "BoldOutlined",
       "filter": [
         "p",
         "a",
