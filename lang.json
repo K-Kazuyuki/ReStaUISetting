@@ -33,6 +33,9 @@
     "desc_block_shadow": "ブロックの影を指定します。",
     "base_change_style": "スタイルの変更",
     "base_search": "検索",
-    "save_button": "保存"
+    "save_button": "保存",
+
+    "page_settings": "ページ設定",
+    "init_format": "デザイン初期化"
   }
 }

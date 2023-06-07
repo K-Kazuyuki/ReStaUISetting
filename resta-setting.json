@@ -78,7 +78,7 @@
         "input[type='submit']"
       ],
       "css": {
-        "font-style": "<italic|bold>"
+        "font-style": "<italic>"
       }
     },
     {
