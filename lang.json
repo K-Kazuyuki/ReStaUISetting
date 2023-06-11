@@ -40,6 +40,9 @@
     "init_page_format_description": "編集中のURLに対応するデザインを初期化します。初期化すると現在のデザインは失われます。この操作は取り消せません。",
     "change_eddited_url": "編集中のURLを変更",
     "change_eddited_url_description": "編集対象のURLを変更します。末尾にのみワイルドカード(*)が利用できます。",
+    "developer_tools": "開発者ツール",
+    "get_css_selector": "CSSセレクタ取得",
+    "get_css_selector_description": "現在選択されているCSSセレクタを取得します。",
 
     "extension_settings": "ReSta設定",
     "init_all_format": "全デザイン初期化",
