@@ -35,6 +35,18 @@
     "base_search": "検索",
     "save_button": "保存",
 
+    "font_title_font": "フォント",
+    "font_title_typography": "タイポグラフィ",
+    "font_title_paragraph": "段落",
+    "font_prop_bold": "太字",
+    "font_prop_italic": "斜体",
+    "font_prop_underline": "下線",
+    "font_prop_font": "フォント",
+    "font_prop_size": "フォントサイズ",
+    "font_prop_line_spacing": "行間",
+    "font_prop_letter_spacing": "字間",
+    "font_prop_color": "文字色",
+
     "page_settings": "ページ設定",
     "init_page_format": "編集中のデザイン初期化",
     "init_page_format_description": "編集中のURLに対応するデザインを初期化します。初期化すると現在のデザインは失われます。この操作は取り消せません。",
